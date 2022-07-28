@@ -10,7 +10,8 @@
 #include <fstream>
 
 using namespace std;
-
+// Oh Hello there
+#define THISISATEST 1000;
 bool check_number(char number[])
 {
   int i = 0;
